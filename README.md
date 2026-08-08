@@ -4,10 +4,11 @@ A personal portfolio website built with HTML and CSS and deployed using Amazon W
 
 
 Mission:
+
 To leverage the power of Cloud Storage to host
 a static website without provisioning a single server.
 
-Cloud Deployment
+Cloud Deployment:
 
 The website is hosted using:
 - Amazon Web Services (AWS)
