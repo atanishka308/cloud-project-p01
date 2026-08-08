@@ -1,6 +1,6 @@
 Cloud Project P01 — Personal Portfolio
-
 A personal portfolio website built with HTML and CSS and deployed using Amazon Web Services (AWS).
+
 
 Mission:
 To leverage the power of Cloud Storage to host
@@ -31,7 +31,7 @@ Features:
 Live Website:
 http://cloud-project-p01.s3-website.ap-south-1.amazonaws.com
 
-Project:
+
 Project: The Global Launch  
 Training: DecodeLabs Industrial Training Program  
 Project Type: Cloud Computing
